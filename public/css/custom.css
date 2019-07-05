@@ -1,0 +1,63 @@
+/* General -------------------------------------------------------------------- */
+body.custom { padding-top: 60px; padding-bottom: 30px; background: #FFF; }
+
+nav.navbar-custom { background: #2D3239; border-bottom: 1px solid #21242C; }
+
+/*
+nav.navbar-custom .active { background: #22252B; }
+nav.navbar-custom a { color: #7C8692; }
+nav.navbar-custom a:hover { background: #22252B; }
+*/
+nav.navbar-custom button.navbar-toggle { background: #22252B; }
+nav.navbar-custom span.icon-bar { background: #7C8692; }
+
+/* Logo */
+nav.navbar-custom .navbar-brand:hover { color: #3C87C8; }
+nav.navbar-custom .dropdown-toggle { color: #7C8692; }
+
+/* Dropdown Menu */
+nav.navbar-custom .dropdown.open a { background: #22252B; }
+nav.navbar-custom .dropdown a:hover { color: #98A0A9; background: #22252B; }
+nav.navbar-custom .dropdown a:focus { background: #22252B; }
+nav.navbar-custom .dropdown-menu { background: #22252B; border: 0; border-radius: 0; }
+nav.navbar-custom .dropdown-menu .dropdown-header { color: #A6ADB5; }
+nav.navbar-custom .dropdown-menu a { color: #7C8692; }
+nav.navbar-custom .dropdown-menu a:hover { color: #98A0A9; background: #2D3139; }
+nav.navbar-custom .dropdown-menu a:focus { color: #98A0A9; background: #2D3139; }
+nav.navbar-custom .dropdown-menu .divider { margin: 2px 0; background-color: #383D47; border-left: 5px solid #22252B; border-right: 5px solid #22252B; }
+
+/* Iconlink */
+nav.navbar-custom .iconlink a { background: #2D3239; color: #7C8692; }
+nav.navbar-custom .iconlink a:hover { background: #2D3239; color: #98A0A9; }
+nav.navbar-custom .iconlink a:focus { background: #2D3239; color: #98A0A9; }
+span.label-custom { position: absolute; left: 28px; top: 28px; padding: 3px 2px 2px; }
+
+/* Dropdown Profile */
+nav.navbar-custom .profile { padding: 9px; }
+nav.navbar-custom .profile img { width: 32px; height: 32px; }
+nav.navbar-custom .profile div { text-align: right; margin-right: 5px; line-height: 16px; }
+nav.navbar-custom .profile .truncate { }
+nav.navbar-custom .profile {  }
+
+/* Panel */
+div.panel-custom { padding: 5px 0 5px 0; }
+div.panel-custom .media-left { padding: 0; }
+div.panel-custom h4 { margin: 0; }
+/*
+.panel-custom { border: 1px solid #434A54 !important; } 
+.panel-custom .panel-body { background: #656D78; }
+*/
+
+/* Progress */
+div.progress-custom { height: 8px; margin: 5px 0 0 0; }
+
+/* Footer */
+footer { background: #F8F8F8; border-top: 1px solid #E7E7E7; }
+footer p { padding: 5px; margin: 0; }
+
+@media (min-width: 992px) {
+    .side-right { padding-left: 0 !important; }
+}
+
+
+

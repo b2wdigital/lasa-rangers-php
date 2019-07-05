@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glass-badge-245718",
+  "private_key_id": "4c03d41192f93467423a5e75f5d52b73acb4cedf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsUGt+Sc5/DVRg\ntvqS3X9orxGAMb5G4l1DI2QUGrqo8CHDMABlaRf+zbtXrcwltS93hkRD1MFzBVeX\nipZ/+30uoEnm4/RU5CqDwQkwDw1RWvhHM1nDGcdNRe169tR1sl2pPfRj5/J3W4fT\nie9ROw3/mUGWikbz4iNv6ChGCqWHWPf8XLU4ivtJkstn6vcfHaejr3b20TpTyzDz\nxikzrGAtRaaZR4BFbUiMH5E3tvqfo+AntIaHtHTmZZwFIFdrcZTDyGDBMTR7thUH\nioN3Fcehz49BBLrZhrnbjwJyBBWMjw9ccDND5EqkWlJzWPWcPZfcgwmeGgE+C9b5\nOdbZEsWXAgMBAAECggEADmGVLm9Rbhv35EGJHZegjFSzIkkPWlhQ8qgHDCOASThW\nkFQDLNNozsHjF806MkVE0+eg5JE1tfPqRmJRvGIoARwSGJy2HtXFMerKeK6XJzn7\nsrbmTIrsvRV3WVdcy04v3ap+jUyX+I7ib4uNETV11EtAWZKlX2wwrzvCpQM62vH/\nhr1WlP5YTaZiDeu6rkrX8IcgX6eBUaNO8o2G7lR8dcPZVQ+5V382gbqI4/XXZnpu\nb0FYV6Qy8RNvQmWPvqnlIA88/z/+Q+M57nPOhkiRHumQYZz9336P/jm1oYWQWkhg\nrsQvxDHhlwK8FzL7Ws98POdDfCtDipC6BjTvReZtYQKBgQD6/DxwQ+L6OB32E/Gp\n7Uwgfhi5IjHKDOBSdHxHbGsxrF3iINfkI/r1P+IhW0lF/CJAGPtpafzL2cGzwK+C\nJa2+SQbD7uFyWs9A7GtACYmK/8oowAR/T7O71ohm75SjXcqgxsHPIHeq6hx+cZUG\n5We16e7/7aDJ0e1npDhywARQcQKBgQDxCSRxOTv6vEHdwoSif35/YLN1/2wMOKug\n6GWUa6dyAyoGGNCXn5TmkYRIAwWy/fpz2kZfcZjFMELrmDH2nTCQJ5bRRiCXJvJO\n6q12AGx1qiEA4llWBDj/S6wXYED7iCIaz6aRpN6n1+r/rgoIOzMkvdO1QWGtqojR\nxzJ2ox76hwKBgD+iRBCSpbGbGL2TQOo8Z9i1H7+Qk98OdLFzJy9UpbjqYsM6YIJP\nPQmBMOwUIPfFfUmTC+smHBnzE9FnQRhWRT7BdR2oKzC7JWDokCikQmMjhzXduUYu\nBvvQ4LR4ec8RsJYiznCdYrnKsX69fXNKJolQzm/E58dDmlV0pXsyg+WBAoGAdR4g\nGvPYdQisaHhvwhV4/aObD6bAdV/D5TeGxAtbHUb0UGoWUNY1n6LtR6BQUJyf6VMS\nBqZHuOiuW5NkE5RlWGYkHiOZCljePAJDrqaeDL5RswBIsEb0+vdl8yXN7WpESArF\nwNb/aUa85OdH8J/zRdMG33eZYq0ONgA4QPUZxFkCgYEAtHPEmVNW5I/FnjNO1kiD\nxMwgnlDL8kq4HJ2ekSuzaoXNzJ8XYUGFpw2LgdycaTL+DkWOVINgeiHhIiB0mzlo\ntH2GUP6XsRdLn3QqzQMbc3P/1hQdTD9S3zXOTky8zk5Zh0sPhD723qqsAbFQTJta\nn67rgY2yCvI8/pQhhcMvKKI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "b2w-70@glass-badge-245718.iam.gserviceaccount.com",
+  "client_id": "115001599973485712187",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/b2w-70%40glass-badge-245718.iam.gserviceaccount.com"
+}

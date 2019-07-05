@@ -1,0 +1,29 @@
+{
+
+    "name": "bacon/tsutsui",
+    "description": "Tsutsui - Some random tools.",
+    "type": "project",
+    "license": "",
+    "authors": [
+        {
+            "name": "Ricardo Tsutsui",
+            "email": "ricardo.tsutsui@gmail.com.br"
+        }
+    ],
+
+    "minimum-stability": "dev",
+
+    "require": {
+        "google/cloud-vision": "^0.22.5",
+        "google/cloud-storage": "^1.12",
+        "google/cloud-translate": "^1.2"
+    },
+
+    "autoload":
+    {
+        "psr-4":
+        {
+            "Bacon\\" : "app/"
+        }
+    }
+}
